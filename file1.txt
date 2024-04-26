@@ -1,0 +1,8 @@
+1. install git
+2. login github
+3. buat folder baru dan isi filenya
+4. atur config / git config
+5. buat repo local / git init
+6. stage area / git add & git commit -m
+7. buat repo di github
+8. upload / git push origin master
