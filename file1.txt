@@ -6,3 +6,4 @@
 6. stage area / git add & git commit -m
 7. buat repo di github
 8. upload / git push origin master
+9. ini untuk menandai perubahan
